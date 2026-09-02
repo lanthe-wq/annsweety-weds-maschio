@@ -9,7 +9,7 @@ const WEDDING_CONFIG = {
     initials: "A & M",
     cardInviteMsg: "You are cordially invited to share in our joy.",
     weddingDateText: "September 24, 2026",
-    rsvpDeadlineText: "September 1, 2026",
+    rsvpDeadlineText: "September 15, 2026",
     // Drives the countdown timer. Keep the +05:30 (IST) offset: it pins the
     // countdown to the actual moment of the ceremony in New Delhi, so guests
     // in any timezone see the same, correct time remaining. (The event times
